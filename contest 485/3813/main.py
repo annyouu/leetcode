@@ -46,3 +46,7 @@ class Solution:
             return 0
         else:
             return v // c
+        
+        # isalphaを使わないなら
+        # for ch in s:
+        #     if 'a' <= ch <= 'z':
